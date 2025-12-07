@@ -49,6 +49,10 @@ EventSentinel/
 ```bash
 python main.py --type sysmon --file sample_logs/sysmon_sample.csv
 ```
+<p align="center">
+  <img src="./screenshots/Sysmon_Output.png" width="750">
+</p>
+
 
 ### **Windows Event Log (XML)**
 ```bash
@@ -112,6 +116,4 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 ---
-## 📜 License (MIT)
-
 
