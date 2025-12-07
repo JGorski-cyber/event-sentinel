@@ -91,17 +91,6 @@ Reports will be saved under:
     ├── report.csv
 ```
 ---
-## 🧪 Sample Alert Output (Console)
-
-```
-=== Detected Threats ===
-
-[sysmon] Event 1
-  • Suspicious PowerShell invocation detected
-  • Encoded command found (-enc)
-  => Score: High
-```
----
 
 ## 🛠️ Extending the Project
 
