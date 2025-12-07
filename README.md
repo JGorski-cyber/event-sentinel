@@ -49,6 +49,7 @@ EventSentinel/
 ```bash
 python main.py --type sysmon --file sample_logs/sysmon_sample.csv
 ```
+Sample output:
 <p align="center">
   <img src="./screenshots/Sysmon_Output.png" width="950">
 </p>
@@ -58,11 +59,19 @@ python main.py --type sysmon --file sample_logs/sysmon_sample.csv
 ```bash
 python main.py --type windows --file sample_logs/windows_events.xml
 ```
+Sample output:
+<p align="center">
+  <img src="./screenshots/WEvt_Output.png" width="950">
+</p>
 
 ### **Web Server Logs**
 ```bash
 python main.py --type web --file sample_logs/web_access.log
 ```
+Sample output:
+<p align="center">
+  <img src="./screenshots/Web_Output.png" width="950">
+</p>
 
 ### **Auto-detection (let the tool decide)**
 ```bash
