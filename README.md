@@ -50,7 +50,7 @@ EventSentinel/
 python main.py --type sysmon --file sample_logs/sysmon_sample.csv
 ```
 <p align="center">
-  <img src="./screenshots/Sysmon_Output.png" width="750">
+  <img src="./screenshots/Sysmon_Output.png" width="950">
 </p>
 
 
