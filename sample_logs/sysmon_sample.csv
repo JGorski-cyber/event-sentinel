@@ -1,0 +1,4 @@
+UtcTime,EventID,Image,CommandLine,ParentImage,ParentCommandLine,User,SourceIp,DestinationIp
+2025-01-03 14:32:11,1,C:\Windows\System32\bogus.exe,"bogus.exe -arg1 -arg2",C:\Windows\System32\cmd.exe,"cmd.exe /c start bogus.exe",DESKTOP\User,,
+2025-01-03 14:35:44,3,,,C:\Windows\System32\services.exe,,NETWORK SERVICE,192.168.1.100,10.0.0.15
+2025-01-03 14:36:01,1,C:\Windows\System32\powershell.exe,"powershell.exe -enc SQBFAFgAIAByAGUAdAB1AHIAbgAgACcAaABpACcA",C:\Windows\System32\cmd.exe,"cmd.exe /c powershell.exe",DESKTOP\User,,

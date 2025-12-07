@@ -1,0 +1,27 @@
+<Events>
+<Event>
+  <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2025-01-03T14:40:01Z" />
+      <Computer>WIN-SERVER01</Computer>
+  </System>
+  <EventData>
+      <Data Name="IpAddress">185.244.32.55</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="TargetUserName">Administrator</Data>
+  </EventData>
+</Event>
+
+<Event>
+  <System>
+      <EventID>7045</EventID>
+      <TimeCreated SystemTime="2025-01-03T14:42:18Z" />
+      <Computer>WIN-SERVER01</Computer>
+  </System>
+  <EventData>
+      <Data Name="ServiceName">Updater</Data>
+      <Data Name="ImagePath">C:\Users\Public\malicious.exe</Data>
+      <Data Name="ProcessName">malicious.exe</Data>
+  </EventData>
+</Event>
+</Events>
